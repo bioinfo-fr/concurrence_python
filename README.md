@@ -1,2 +1,2 @@
-# concurence_python
-ce répertoire est lié au tutoriel sur la programmation concurente en python 
+# concurrence_python
+ce répertoire est lié au tutoriel sur la programmation concurrente en python. 
